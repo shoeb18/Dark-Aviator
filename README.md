@@ -1,7 +1,9 @@
 # Dark-Aviator !!!
 
-Dark Aviator!
-This is our Dark Aviator Dark theme for vs code developers!
-Download and install from vs code marketplace !!!
+Dark Aviator - Dark Color Theme
+
+The Dark Aviator VS Code dark color theme is sure to enhance your productivity and inspire your creativity.
+
+                            Designed & Developed By Shoeb Khan
 
 **Enjoy!**
