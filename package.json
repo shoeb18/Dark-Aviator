@@ -1,0 +1,25 @@
+{
+  "name": "Dark-Aviator",
+  "displayName": "Dark Aviator",
+  "description": "Dark Aviator Theme",
+  "version": "1.0.0",
+  "publisher": "ShoebKhan",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "keywords": [
+    "dark aviator", "aviator","theme","dark theme", "cool dark theme","dark", "dark theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Aviator",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Aviator-color-theme.json"
+      }
+    ]
+  }
+}
