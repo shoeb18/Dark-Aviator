@@ -2,13 +2,19 @@
   "name": "Dark-Aviator",
   "displayName": "Dark Aviator",
   "description": "Dark Aviator Theme",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "ShoebKhan",
   "engines": {
     "vscode": "^1.75.0"
   },
   "keywords": [
-    "dark aviator", "aviator","theme","dark theme", "cool dark theme","dark", "dark theme"
+    "dark aviator",
+    "aviator",
+    "theme",
+    "dark theme",
+    "cool dark theme",
+    "dark",
+    "dark theme"
   ],
   "categories": [
     "Themes"
