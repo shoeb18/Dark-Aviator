@@ -2,6 +2,7 @@
   "name": "Dark-Aviator",
   "displayName": "Dark Aviator",
   "description": "Dark Aviator Theme",
+  "icon": "img/logo.png",
   "version": "1.1.0",
   "publisher": "ShoebKhan",
   "engines": {
