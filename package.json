@@ -3,11 +3,11 @@
   "displayName": "Dark Aviator",
   "description": "Dark Aviator Theme",
   "icon": "img/logo.png",
-    "repository": {
+  "repository": {
     "type": "git",
     "url": "https://github.com/shoeb18/Dark-Aviator.git"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "ShoebKhan",
   "engines": {
     "vscode": "^1.75.0"
