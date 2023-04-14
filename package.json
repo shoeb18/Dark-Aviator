@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/shoeb18/Dark-Aviator.git"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "ShoebKhan",
   "engines": {
     "vscode": "^1.75.0"
