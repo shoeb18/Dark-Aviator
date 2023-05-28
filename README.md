@@ -4,7 +4,7 @@
 
 ### SCREENSHOT
 
-![dark aviator ss](https://user-images.githubusercontent.com/90252942/232331869-8d7575d2-1136-47b8-8f51-4ad5f1823577.PNG)
+![v2](https://github.com/shoeb18/Dark-Aviator/assets/90252942/66823ce1-f57e-47ef-95c2-60595b40ea93)
 
 
 ### Designed And Developed By Shoeb Khan
